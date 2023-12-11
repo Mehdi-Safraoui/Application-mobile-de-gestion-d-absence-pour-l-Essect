@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_names">
+        <item>Ahmed Amine Drira</item>
+        <item>Mehdi Safraoui</item>
+        <item>Feres Belekhdher</item>
+        <item>Koussay Bejaoui</item>
+        <item>Oumaima Selmi</item>
+        <item>Khaoula Khayati</item>
+        <item>Mohamed Amine Sehiri</item>
+        <item>Nermine Riabi</item>
+        <item>Ghofrane Lamiri</item>
+        <item>Sabrine Gooli</item>
+        <item>Firas Balti</item>
+    </string-array>
+</resources>
